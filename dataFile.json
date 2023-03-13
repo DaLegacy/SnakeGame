@@ -1,0 +1,5 @@
+[
+  {"modelo":"gtr", "ano":2004, "cor":"branco", "marca":"nissan", "placa":"123abc", "completo":"sim", "potencia":500},
+  {"modelo":"gol","ano":2023,"cor":"preto","marca":"volkswagen","placa":"23b4ab","completo":"sim","potencia":130}, 
+  {"modelo":"enzo","ano":2015,"cor":"vermelho","marca":"ferrari","placa":"123456a","completo":"sim","potencia":700} 
+]
